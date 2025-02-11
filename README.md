@@ -1,4 +1,4 @@
-# Flight-Price-Analysis-
+# Flight-Price-Analysis
 
 Data overview
 - Dataset Size: The dataset contains 300,153 rows and 12 columns.
@@ -6,4 +6,4 @@ Data overview
 destination cities, class, and price.
 - the link of dataset: https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction
 
-See the result analysis in the report
+See the result analysis and more information in the report
